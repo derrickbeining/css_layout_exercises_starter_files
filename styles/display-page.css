@@ -1,0 +1,48 @@
+.black {
+    background-color: black;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.container {
+    font-size: 0;
+    height: 500px;
+    margin: 50px auto;
+    width: 800px;
+}
+
+.gray {
+    background-color: gray;
+}
+
+.green {
+    background-color: green;
+}
+
+.half-width {
+    width: 50%;
+    display: inline-block;}
+
+.height-200px {
+    height: 200px;
+}
+
+.height-300px {
+    height: 300px;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.one-third-width {
+    display: inline-block;
+    width: 33.3333333333333333%;
+    width: calc(100% / 3);
+}
+
+.thin-black-border {
+    border: 1px solid black;
+}
