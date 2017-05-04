@@ -3,10 +3,26 @@ body {
   color: white;
 }
 
+img {
+    margin: 10px;
+}
+
 main {
   padding-left: 90px;
   padding-right: 90px;
   max-width: 1000px;
   margin-left: auto;
   margin-right: auto;
+}
+
+.img-med {
+    max-width: 300px;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
 }
